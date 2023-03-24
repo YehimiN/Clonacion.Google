@@ -2,10 +2,10 @@
 
 ## **ÍNDICE**
 
-* [1. INTRO](https://github.com/YehimiN/Clonacion.Google/edit/main/README.md#1-intro)
-* [2. QUÉ CONSTRUI](https://github.com/YehimiN/Clonacion.Google/edit/main/README.md#2-qu%C3%A9-construye)
-* [3. OBJETIVO DEL PROYECTO](https://github.com/YehimiN/Clonacion.Google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. LINK A DEMO](https://github.com/YehimiN/Clonacion.Google/edit/main/README.md#4-link-a-demo)
+* [1. INTRO](https://github.com/YehimiN/Clonacion.Google/blob/main/README.md#1-intro)
+* [2. QUÉ CONSTRUI](https://github.com/YehimiN/Clonacion.Google/blob/main/README.md#2-qu%C3%A9-construye)
+* [3. OBJETIVO DEL PROYECTO](https://github.com/YehimiN/Clonacion.Google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. LINK A DEMO](https://github.com/YehimiN/Clonacion.Google/blob/main/README.md#4-link-a-demo)
 
 ****
 ## 1. INTRO
